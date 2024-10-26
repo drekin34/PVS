@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LAB1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LAB1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\icon-fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\icon-fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\icon-fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\icon-fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\icon-fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\icon-fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\icon-fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\icon-fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\agents\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\agents\\1.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\agents\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\agents\\2.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\agents\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\agents\\3.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\2.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\3.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\4.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\5.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\6.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\blog\\big-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\big-1.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\blog\\big-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\big-2.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\page-top-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\page-top-bg.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\property-search\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\property-search\\1.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\property-search\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\property-search\\2.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\property-search\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\property-search\\3.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\property-search\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\property-search\\4.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\property\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\property\\1.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\property\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\property\\2.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\property\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\property\\3.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\property\\big.jpg",
+      "PackagePath": "staticwebassets\\img\\property\\big.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\sell-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\sell-bg.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\img\\video-img.jpg",
+      "PackagePath": "staticwebassets\\img\\video-img.jpg"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\sass\\ready.scss",
+      "PackagePath": "staticwebassets\\sass\\ready.scss"
+    },
+    {
+      "Id": "D:\\WebServ\\LAB1\\LAB1\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LAB1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LAB1.props",
+      "PackagePath": "build\\LAB1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LAB1.props",
+      "PackagePath": "buildMultiTargeting\\LAB1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LAB1.props",
+      "PackagePath": "buildTransitive\\LAB1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

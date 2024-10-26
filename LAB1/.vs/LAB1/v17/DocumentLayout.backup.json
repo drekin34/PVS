@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebServ\\LAB1\\LAB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|d:\\webserv\\lab1\\lab1\\views\\temp\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|solutionrelative:views\\temp\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|d:\\webserv\\lab1\\lab1\\views\\temp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|solutionrelative:views\\temp\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|d:\\webserv\\lab1\\lab1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|d:\\webserv\\lab1\\lab1\\controllers\\tempcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|solutionrelative:controllers\\tempcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|d:\\webserv\\lab1\\lab1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|d:\\webserv\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|d:\\webserv\\lab1\\lab1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|d:\\webserv\\lab1\\lab1\\views\\temp\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21A76B88-20EF-49CB-B2C7-A85F244FA26A}|LAB1.csproj|solutionrelative:views\\temp\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\WebServ\\LAB1\\LAB1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\WebServ\\LAB1\\LAB1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:37:22.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aboutus.cshtml",
+              "DocumentMoniker": "D:\\WebServ\\LAB1\\LAB1\\Views\\Temp\\aboutus.cshtml",
+              "RelativeDocumentMoniker": "Views\\Temp\\aboutus.cshtml",
+              "ToolTip": "D:\\WebServ\\LAB1\\LAB1\\Views\\Temp\\aboutus.cshtml",
+              "RelativeToolTip": "Views\\Temp\\aboutus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:31:49.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "D:\\WebServ\\LAB1\\LAB1\\Views\\Temp\\index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Temp\\index.cshtml",
+              "ToolTip": "D:\\WebServ\\LAB1\\LAB1\\Views\\Temp\\index.cshtml",
+              "RelativeToolTip": "Views\\Temp\\index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAABAvQ8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:29:02.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebServ\\LAB1\\LAB1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WebServ\\LAB1\\LAB1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAABgZmZmZmYkwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:23:43.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WebServ\\LAB1\\LAB1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WebServ\\LAB1\\LAB1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAABQPQUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:20:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.html",
+              "DocumentMoniker": "D:\\WebServ\\LAB1\\LAB1\\Views\\Temp\\main.html",
+              "RelativeDocumentMoniker": "Views\\Temp\\main.html",
+              "ToolTip": "D:\\WebServ\\LAB1\\LAB1\\Views\\Temp\\main.html",
+              "RelativeToolTip": "Views\\Temp\\main.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-25T14:19:58.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TempController.cs",
+              "DocumentMoniker": "D:\\WebServ\\LAB1\\LAB1\\Controllers\\TempController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TempController.cs",
+              "ToolTip": "D:\\WebServ\\LAB1\\LAB1\\Controllers\\TempController.cs",
+              "RelativeToolTip": "Controllers\\TempController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:18:18.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\WebServ\\LAB1\\LAB1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\WebServ\\LAB1\\LAB1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:16:22.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
